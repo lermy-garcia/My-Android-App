@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Lermy/Projects/Android/My-Android-App/app/.cxx/cmake/debug/arm64-v8a",
+  "command": "C:\\Users\\Lermy3d\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=aarch64-none-linux-android --gcc-toolchain=C:/Users/Lermy3d/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/Lermy3d/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -isystem C:/Users/Lermy3d/AppData/Local/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem C:/Users/Lermy3d/AppData/Local/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem C:/Users/Lermy3d/AppData/Local/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem C:/Users/Lermy3d/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=24 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++14 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\src\\main\\cpp\\native-lib.cpp"
+}
+]

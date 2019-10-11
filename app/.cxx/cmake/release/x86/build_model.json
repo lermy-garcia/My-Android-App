@@ -1,0 +1,75 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App",
+      "sdkFolder": "C:\\Users\\Lermy3d\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app",
+      "makeFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\.cxx",
+      "cxxFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Lermy3d\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "16.1.4479499",
+      "ndkSupportedAbiList": [
+        "ARMEABI",
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "MIPS",
+        "MIPS64",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++14"
+    ],
+    "variantName": "release",
+    "soFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 24,
+  "cxxBuildFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86",
+  "jsonFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86",
+  "objFolder": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\build\\intermediates\\cmake\\release\\obj\\x86",
+  "buildCommandFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86\\build_command.txt",
+  "buildOutputFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86\\build_output.txt",
+  "modelOutputFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\build_generation_state.json",
+    "cacheKeyFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cxx\\release\\x86\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\Lermy\\Projects\\Android\\My-Android-App\\app\\.cxx\\cmake\\release\\x86\\compile_commands.json"
+}
